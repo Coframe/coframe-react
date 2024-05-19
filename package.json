@@ -1,6 +1,6 @@
 {
     "name": "@coframe/coframe-react",
-    "version": "0.0.20",
+    "version": "0.0.21",
     "description": "Coframe optimizes your website using generative AI to deliver maximum impact to your audience and allow your site to improve itself as you sleep. Learn more at coframe.ai.",
     "author": "Coframe",
     "main": "index.js",
